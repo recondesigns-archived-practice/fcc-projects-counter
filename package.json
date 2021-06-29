@@ -1,7 +1,7 @@
 {
-  "name": "fcc-counter",
+  "name": "remove-punctuation",
   "version": "1.0.0",
-  "description": "Counter app, but using React instead of vanilla JS.",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
