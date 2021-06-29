@@ -63,7 +63,7 @@ export default function App() {
   return (
     <>
       <Container>
-        <Title>{"Counter Ap"}</Title>
+        <Title>{"Counter App"}</Title>
         <Subtitle>{"Please increment or decrement below."}</Subtitle>
         <CounterNumber color={numberColor}>{counter}</CounterNumber>
         <Wrapper>
